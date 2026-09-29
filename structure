@@ -1,0 +1,10 @@
+frontend/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── components/
+│       └── HomePage.jsx
+├── package.json
+├── .dockerignore
+└── Dockerfile
